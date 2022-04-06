@@ -1,4 +1,4 @@
-# cecs460
+# Harsha - SystemC
 
 ### Important Info:
 
